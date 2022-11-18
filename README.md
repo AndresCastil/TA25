@@ -1,1 +1,1 @@
-# TA25
+# TA25.  Tienda Informatica 
